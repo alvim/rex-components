@@ -15,4 +15,4 @@
 
 ---
 
-![Estrutura]http://github.com/alvimm/rex-components/blob/master/assets/print1.png?raw=true
+![Estrutura](http://github.com/alvimm/rex-components/blob/master/assets/print1.png?raw=true)
