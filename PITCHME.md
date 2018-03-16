@@ -11,7 +11,22 @@ Todos os componentes Rex são armazenados nesse repositório. A versão será co
 
 ---
 
+```javascript
+import './index.scss'
 
+const Banner = function(node, props = {}) {
+    const options = {
+         transition: 'fade', // default options
+         ...props // sobreescrever default options com props
+    }
+
+    this.boxes = node.querySelectorAll('.box-banner')
+}
+
+export default Banner
+```
+@[1] - "Importar o scss, como sempre fazemos."
+@[3-10] - "Código modular."
 
 ---
 
@@ -29,5 +44,3 @@ Todos os componentes Rex são armazenados nesse repositório. A versão será co
 ```
 @[3] - "Para gerar o build que será usado no GrapesJS."
 @[4] - "Para iniciar ambiente de desenvolvimento."
-
----
