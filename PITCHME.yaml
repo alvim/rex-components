@@ -1,5 +1,3 @@
-theme : night
-theme-override : assets/css/PITCHME.css
 logo : assets/image/logo.png
 background : assets/image/scales.svg
 background-size : cover
