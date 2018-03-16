@@ -1,4 +1,21 @@
 # Rex Components
+#### https://bitbucket.org/original-io/rex-components
+
+---
+
+Todos os componentes Rex são armazenados nesse repositório. A versão será controlada por meio de [versionamento semântico](https://semver.org/lang/pt-BR/).
+
+**Todo componente deve ser documentado, sem exceção.** Um componente sem documentação, não será considerado.
+
+**Todo componente deverá conter testes unitários.** Um componente sem TDD também não será considerado.
+
+---
+
+
+
+---
+
+![Estrutura](http://github.com/alvimm/rex-components/blob/master/assets/print1.png?raw=true)
 
 ---
 
@@ -14,5 +31,3 @@
 @[4] - "Para iniciar ambiente de desenvolvimento."
 
 ---
-
-![Estrutura](http://github.com/alvimm/rex-components/blob/master/assets/print1.png?raw=true)
