@@ -15,4 +15,4 @@
 
 ---
 
-![Estrutura](./assets/print1.jpg)
+---?image=assets/print1.png
