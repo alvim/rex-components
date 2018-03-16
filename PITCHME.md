@@ -14,3 +14,5 @@
 @[4] - "Para iniciar ambiente de desenvolvimento."
 
 ---
+
+![Estrutura](./assets/print1.jpg)
